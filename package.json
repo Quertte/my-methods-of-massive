@@ -1,0 +1,25 @@
+{
+  "name": "my-methods-of-massive",
+  "version": "1.0.0",
+  "description": "During development, we often work with collections of objects: an array of phone numbers, a list of names, a set of GPS coordinates, etc.",
+  "main": "aggregate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quertte/my-methods-of-massive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quertte/my-methods-of-massive/issues"
+  },
+  "homepage": "https://github.com/Quertte/my-methods-of-massive#readme",
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
